@@ -1,0 +1,12 @@
+# CMake
+build/
+
+# images
+images/
+*.ppm
+
+# IDE
+.vscode/
+
+# macOS
+.DS_Store
