@@ -9,6 +9,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 set(SOURCE_ONE_WEEKEND
     src/InOneWeekend/main.cc
     src/InOneWeekend/color.h
+    src/InOneWeekend/ray.h
     src/InOneWeekend/vec3.h
 )
 
